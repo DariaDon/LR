@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><birthdaylist>
+	<birthday>
+		<name>Олег</name>
+		<surname>Васин</surname>
+		<birthdate>11.09.1993</birthdate>
+	</birthday>
+    <birthday>
+		<name>Антон</name>
+		<surname>Армунов</surname>
+		<birthdate>03.02.1999</birthdate>
+    </birthday>
+    <birthday>
+		<name>Марина</name>
+		<surname>Васина</surname>
+		<birthdate>24.06.1991</birthdate>
+    </birthday>
+	<birthday>
+		<name>Алексей</name>
+		<surname>Васин</surname>
+		<birthdate>15.11.1996</birthdate>
+	</birthday>
+</birthdaylist>
